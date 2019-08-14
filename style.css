@@ -18,5 +18,13 @@ body{
 }
 
 .btn.submit {
-    margin: 10px 0 0 140px;
+    text-align: center;
 }
+
+.hidden 
+{position:absolute;
+left:-10000px;
+top:auto;
+width:1px;
+height:1px;
+overflow:hidden;}
